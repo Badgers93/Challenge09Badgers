@@ -17,15 +17,6 @@ let { title, description } = await inquirer
         }
     ])
 
-// let { description } = await inquirer
-//     .prompt([
-//         {
-//             type: 'input',
-//             name: 'description',
-//             message: "Write a description of your project",
-//         }
-//     ])
-
 let { installation } = await inquirer
     .prompt([
         {
@@ -104,15 +95,24 @@ function generateLicense(license) {
 }
 
 let readmeText =
-    `# ${title} ${licenseBadge}
+`
+# ${title} ${licenseBadge}
 
 ## Project Description
 ${description}
 
+## Table of Contents
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [License](#license)
+ - [Contributing](#contributing)
+ - [Tests](#tests)
+ - [Questions](#questions)
+
 ## Installation
 ${installation}
 
-## Usage
+## Usage 
 ${usage}
 
 ## License
@@ -127,7 +127,6 @@ ${tests}
 ## Questions
 Github: https://www.github.com/${username}
 For additional questions, please contact me at: ${email}
-
 `
 
 fs.writeFile("README.md", readmeText)
