@@ -1,9 +1,8 @@
 
-# Challenge 09 ReadME Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Challenge 10 SVG Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description
-Generate a high quality readME easily from the terminal, with hyperlinks to different sections and all!
-Link to video: https://drive.google.com/file/d/1jt1YKIHfruz0zEOJwrvLn1RIOcGUBwSX/view
+Generate svg shapes from the command line when prompted for qualities such as text, color, etc.
 
 ## Table of Contents
  - [Installation](#installation)
@@ -14,19 +13,19 @@ Link to video: https://drive.google.com/file/d/1jt1YKIHfruz0zEOJwrvLn1RIOcGUBwSX
  - [Questions](#questions)
 
 ## Installation
-Simply type "npm install" into the terminal from the root directory for this challenge.
+Simply type npm install into the command line while in the root of the project.
 
 ## Usage 
-Start the program by typing "node index.mjs" into the terminal. Answer the prompts given to you by inquirer.
+Run the program by typing node index.js
 
 ## License
 MIT
 
 ## Contributing
-No contribution guidelines for this project.
+No contribution guidelines.
 
 ## Tests
-No test instructions for this project.
+No test instructions.
 
 ## Questions
 Github: https://www.github.com/Badgers93
