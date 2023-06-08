@@ -3,6 +3,7 @@
 
 ## Project Description
 Generate a high quality readME easily from the terminal, with hyperlinks to different sections and all!
+Link to video: https://drive.google.com/file/d/1jt1YKIHfruz0zEOJwrvLn1RIOcGUBwSX/view
 
 ## Table of Contents
  - [Installation](#installation)
