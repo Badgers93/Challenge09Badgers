@@ -1,8 +1,8 @@
 
-# haha [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Challenge 09 ReadME Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description
-xd
+Generate a high quality readME easily from the terminal, with hyperlinks to different sections and all!
 
 ## Table of Contents
  - [Installation](#installation)
@@ -13,20 +13,20 @@ xd
  - [Questions](#questions)
 
 ## Installation
-xd
+Simply type "npm install" into the terminal from the root directory for this challenge.
 
 ## Usage 
-xd
+Start the program by typing "node index.mjs" into the terminal. Answer the prompts given to you by inquirer.
 
 ## License
-GNU
+MIT
 
 ## Contributing
-xd
+No contribution guidelines for this project.
 
 ## Tests
-xd
+No test instructions for this project.
 
 ## Questions
-Github: https://www.github.com/xd
-For additional questions, please contact me at: xd
+Github: https://www.github.com/Badgers93
+For additional questions, please contact me at: brianbadger93@gmail.com
