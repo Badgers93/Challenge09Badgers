@@ -1,8 +1,8 @@
 
-# Challenge 19 PWA Text Editor [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Challenge 9 SQL Employee Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description
-Progressive web app using webpack
+Employee tracker using SQL database with iniquirer to interact with the user. https://drive.google.com/file/d/1FdanNuwtpYekVD8m8TGdgmIp2UVtZnI4/view
 
 ## Table of Contents
  - [Installation](#installation)
@@ -13,10 +13,10 @@ Progressive web app using webpack
  - [Questions](#questions)
 
 ## Installation
-Download code, open in terminal the root directory, and type npm run install
+Download the files and type npm install
 
 ## Usage 
-After installation, type npm run start
+After installation type npm start into the terminal
 
 ## License
 MIT
